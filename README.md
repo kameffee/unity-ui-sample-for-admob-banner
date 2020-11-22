@@ -9,9 +9,7 @@ Supported Banner size:
 - Smart Banner (Deprecated)
 
 ## Screenshot
-<img src=Doc/Screenshot/StandardBanner.png width="256">
-<img src=Doc/Screenshot/AdaptiveBanner.png width="256">
-<img src=Doc/Screenshot/SmartBanner.png width="256">
+<img src=Doc/Screenshot/StandardBanner.png width="256" hspace="10"><img src=Doc/Screenshot/AdaptiveBanner.png width="256" hspace="10"><img src=Doc/Screenshot/SmartBanner.png width="256" hspace="10">
 
 ## Environment
 - Unity 2020.1.11f
